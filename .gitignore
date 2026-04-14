@@ -1,0 +1,19 @@
+﻿# Dependencies
+node_modules/
+
+# Production
+public/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Local config
+_config.butterfly.yml
+_config.yml.backup
+
+# Hexo files
+db.json
+.deploy_git
